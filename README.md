@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Misbah Khursheed
 - 👀 I’m interested in ... Web Development and AI
-- 🌱 I’m currently learning ...MongoDB
+- 🌱 I’m currently learning ...GOLang
 - 💞️ I’m looking to collaborate on ... Zeon
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
