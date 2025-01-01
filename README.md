@@ -26,12 +26,12 @@ I'm a passionate developer with a love for coding and problem-solving. I enjoy l
 ![IMisbahk's GitHub stats](https://github-readme-stats.vercel.app/api?username=IMisbahk&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/misbahkhursheed)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-profile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:m.misbahkhursheed@gmail.com)
 
 ## 🚀 Projects
-- **[Project 1](https://github.com/IMisbahk/project1)**: Brief description of what this project does.
+- **[Project 1](https://github.com/IMisbahk/ctrl-wear)**: Brief description of what this project does.
 - **[Project 2](https://github.com/IMisbahk/project2)**: Brief description of what this project does.
 - **[Project 3](https://github.com/IMisbahk/project3)**: Brief description of what this project does.
 
