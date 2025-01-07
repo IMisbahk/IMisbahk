@@ -12,25 +12,6 @@
 
 ---
 
-## 🚀 What I Do
-
-### 🔬 AI & Machine Learning
-
-- **Signify:** Real-time sign language gesture recognition with OpenCV and TensorFlow.  
-- **Emotion Detection:** Using HAARcascade for facial feature-based emotion recognition.  
-- **Gamma Classification:** Built a model using the MAGIC gamma telescope dataset.  
-- **Alphabet Recognition:** Implemented a neural network powered by XGBoost.  
-- **Digit Recognition:** Designed a deep learning model using TensorFlow.  
-- **Customer Churn Prediction:** Analyzed telecom data to predict customer behavior.
-
-### 🌐 Web Development
-
-- Developing **‘Awaj’**: A React.js app utilizing Elysia.js and Bun.js.  
-- Created beginner-friendly apps like a **Weather App, To-Do List, and Calculator**.  
-- Proficient in **HTML, CSS, JavaScript, React.js, Next.js, and Django**.
-
----
-
 ## 🎯 Skills
 
 ### 👨‍💻 Programming Languages
@@ -65,6 +46,25 @@
 ![After Effects](https://img.shields.io/badge/-After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/-Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+
+---
+
+## 🚀 What I Do
+
+### 🔬 AI & Machine Learning
+
+- **Signify:** Real-time sign language gesture recognition with OpenCV and TensorFlow.  
+- **Emotion Detection:** Using HAARcascade for facial feature-based emotion recognition.  
+- **Gamma Classification:** Built a model using the MAGIC gamma telescope dataset.  
+- **Alphabet Recognition:** Implemented a neural network powered by XGBoost.  
+- **Digit Recognition:** Designed a deep learning model using TensorFlow.  
+- **Customer Churn Prediction:** Analyzed telecom data to predict customer behavior.
+
+### 🌐 Web Development
+
+- Developing **‘Awaj’**: A React.js app utilizing Elysia.js and Bun.js.  
+- Created beginner-friendly apps like a **Weather App, To-Do List, and Calculator**.  
+- Proficient in **HTML, CSS, JavaScript, React.js, Next.js, and Django**.
 
 ---
 
