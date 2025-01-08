@@ -82,7 +82,7 @@
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IMisbahk)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/misbahkhursheed/)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IMisbahk)
+
 
 ---
 
@@ -93,11 +93,11 @@
 Real-time sign language recognition using TensorFlow and OpenCV.
 
 ### 📊 Gamma Classification  
-🔗 [GitHub Repository](https://github.com/IMisbahk/MAGIC-Telescope)  
+🔗 [GitHub Repository](https://github.com/IMisbahk/)  
 A machine learning model based on UCL’s dataset to classify Hadrons and Gamma particles.
 
 ### 🎭 Emotion Detection  
-🔗 [GitHub Repository](https://github.com/IMisbahk/Emotion-Detector)  
+🔗 [GitHub Repository]((https://github.com/IMisbahk/Facial-Recognition))  
 Detects emotions based on facial features using HAARcascade.
 
 ---
