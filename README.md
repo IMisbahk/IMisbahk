@@ -97,7 +97,7 @@ Real-time sign language recognition using TensorFlow and OpenCV.
 A machine learning model based on UCL’s dataset to classify Hadrons and Gamma particles.
 
 ### 🎭 Emotion Detection  
-🔗 [GitHub Repository]((https://github.com/IMisbahk/Facial-Recognition))  
+🔗 [GitHub Repository](https://github.com/IMisbahk/Facial-Recognition)
 Detects emotions based on facial features using HAARcascade.
 
 ---
