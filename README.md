@@ -53,6 +53,8 @@
 
 ### 🔬 AI & Machine Learning
 
+- **Genie:** A chess AI leveraging transformer models to predict the next best move with strategic precision.
+- **Nova:** A reinforcement learning-based trading agent model designed to optimize decision-making in financial markets.
 - **Signify:** Real-time sign language gesture recognition with OpenCV and TensorFlow.  
 - **Emotion Detection:** Using HAARcascade for facial feature-based emotion recognition.  
 - **Gamma Classification:** Built a model using the MAGIC gamma telescope dataset.  
